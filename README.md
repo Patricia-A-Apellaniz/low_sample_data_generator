@@ -39,7 +39,7 @@ Already obtained table results can be found in /results/.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Already trained models can be downloaded in the following link: [trained_models]()
+[//]: # (Already trained models can be downloaded in the following link: [trained_models]&#40;&#41;)
 
 You can specify different configurations or training parameters in main.py for every experiment. 
 
