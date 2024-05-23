@@ -39,6 +39,8 @@ Already obtained table results can be found in /results/.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
+Already trained models can be downloaded in the following link: [trained_models]()
+
 You can specify different configurations or training parameters in main.py for every experiment. 
 
 To preprocess data, run the following command:
